@@ -3,3 +3,5 @@ Very critical infomation stored in this file
 Do not delete
 
 updated password and API key
+
+Storage account SAS toke: 123876
