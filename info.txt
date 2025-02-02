@@ -2,4 +2,4 @@ Very critical infomation stored in this file
 
 Do not delete
 
-updated password
+updated password and API key
